@@ -3,9 +3,11 @@ using UnityEngine;
 public class PlayerMov : MonoBehaviour
 {
     public float velocidad = 1.0f;
+    public float fuerzaSalto = 1.0f;
     public Rigidbody rb;
     private ObjectGrab objectGrab;
     public bool seMueve;
+    public bool tocaSuelo;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -30,13 +32,46 @@ public class PlayerMov : MonoBehaviour
 
         if (ObjectGrab.objetoAgarrado != null)
         {
-            rb.transform.rotation = Quaternion.Euler(0, transform.position.y, 0);
+            //Conseguir vector para mirar a objeto
+            Vector3 mirarObjeto = ObjectGrab.objetoAgarrado.transform.position - transform.position;
+            float anguloDireccion = Mathf.Atan2(mirarObjeto.x, mirarObjeto.z) * Mathf.Rad2Deg;
+            rb.transform.rotation = Quaternion.Euler(0, anguloDireccion + 90, 0);
+
             seMueve = false;
         }
         else
         {
             rb.transform.rotation = Quaternion.Euler(0, angulo, 0);
             seMueve = true;
+        }
+
+        salto();
+    }
+
+    void salto()
+    {
+        //Hacer el salto
+        if (Input.GetKeyDown(KeyCode.Space) && seMueve == true && tocaSuelo == true)
+        {
+            rb.AddForce(Vector3.up * fuerzaSalto, ForceMode.Impulse);
+        }
+    }
+
+    private void OnCollisionEnter(Collision collision)
+    {
+        //Comprobar si el juagdor toca el suelo
+        if (collision.gameObject.CompareTag("Suelo"))
+        {
+            tocaSuelo = true;
+        }
+    }
+
+    private void OnCollisionExit(Collision collision)
+    {
+        //Comprobar si el juagdor toca el suelo
+        if (collision.gameObject.CompareTag("Suelo"))
+        {
+            tocaSuelo = false;
         }
     }
 }

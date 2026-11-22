@@ -5,6 +5,7 @@ public class ObjectGrab : MonoBehaviour
     Rigidbody rb;
     public bool agarrando;
     public static ObjectGrab objetoAgarrado;
+    public GameObject player;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -37,7 +38,11 @@ public class ObjectGrab : MonoBehaviour
 
         posicionMouse.z = Camera.main.WorldToScreenPoint(transform.position).z;
 
-        transform.position = Camera.main.ScreenToWorldPoint(posicionMouse);
+        Vector3 nuevaPosicion = Camera.main.ScreenToWorldPoint(posicionMouse);
+
+        nuevaPosicion.y = player.transform.position.y;
+
+        transform.position = nuevaPosicion;
     }
     private void OnMouseUp()
     {
