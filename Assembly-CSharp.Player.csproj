@@ -63,6 +63,8 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\PlayerMov.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
+    <Compile Include="Assets\Scripts\CameraMov.cs" />
+    <Compile Include="Assets\Scripts\ObjectGrab.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

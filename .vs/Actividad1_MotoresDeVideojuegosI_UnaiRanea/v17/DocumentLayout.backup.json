@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A6B3B714-CDED-0CB0-517C-F30E8CF6C1CC}|Assembly-CSharp.csproj|z:\\0_unir\\2\\motores\\actividad1\\git\\actividad1_motoresdevideojuegosi_unairanea\\assets\\scripts\\playermov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6B3B714-CDED-0CB0-517C-F30E8CF6C1CC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B3B714-CDED-0CB0-517C-F30E8CF6C1CC}|Assembly-CSharp.csproj|z:\\0_unir\\2\\motores\\actividad1\\git\\actividad1_motoresdevideojuegosi_unairanea\\assets\\scripts\\objectgrab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B3B714-CDED-0CB0-517C-F30E8CF6C1CC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objectgrab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +28,22 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMov.cs",
               "ToolTip": "Z:\\0_unir\\2\\motores\\actividad1\\git\\Actividad1_MotoresDeVideojuegosI_UnaiRanea\\Assets\\Scripts\\PlayerMov.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerMov.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-21T13:15:00.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ObjectGrab.cs",
+              "DocumentMoniker": "Z:\\0_unir\\2\\motores\\actividad1\\git\\Actividad1_MotoresDeVideojuegosI_UnaiRanea\\Assets\\Scripts\\ObjectGrab.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ObjectGrab.cs",
+              "ToolTip": "Z:\\0_unir\\2\\motores\\actividad1\\git\\Actividad1_MotoresDeVideojuegosI_UnaiRanea\\Assets\\Scripts\\ObjectGrab.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ObjectGrab.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T10:59:37.101Z",
               "EditorCaption": ""
             }
           ]
