@@ -6,11 +6,13 @@ public class ObjectGrab : MonoBehaviour
     public bool agarrando;
     public static ObjectGrab objetoAgarrado;
     public GameObject player;
+    public float alturaObjeto;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         rb = GetComponent<Rigidbody>();
+        player = GameObject.FindGameObjectWithTag("Player");
     }
 
     // Update is called once per frame
@@ -40,7 +42,9 @@ public class ObjectGrab : MonoBehaviour
 
         Vector3 nuevaPosicion = Camera.main.ScreenToWorldPoint(posicionMouse);
 
-        nuevaPosicion.y = player.transform.position.y;
+        alturaObjeto += Input.GetAxis("Mouse ScrollWheel");
+
+        nuevaPosicion.y = player.transform.position.y + alturaObjeto;
 
         transform.position = nuevaPosicion;
     }

@@ -61,9 +61,14 @@
     <Analyzer Include="Z:\Unity_6000\Editor\Data\Tools\BuildPipeline\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Cajas.cs" />
     <Compile Include="Assets\Scripts\PlayerMov.cs" />
+    <Compile Include="Assets\Scripts\Fin.cs" />
+    <Compile Include="Assets\Scripts\Lava.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
+    <Compile Include="Assets\Scripts\Controles.cs" />
     <Compile Include="Assets\Scripts\Inicio.cs" />
+    <Compile Include="Assets\Scripts\MenuPrincipal.cs" />
     <Compile Include="Assets\Scripts\CameraMov.cs" />
     <Compile Include="Assets\Scripts\ObjectGrab.cs" />
   </ItemGroup>
