@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "Z:\\0_unir\\2\\motores\\actividad1\\git\\Actividad1_MotoresDeVideojuegosI_UnaiRanea\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6B3B714-CDED-0CB0-517C-F30E8CF6C1CC}|Assembly-CSharp.csproj|z:\\0_unir\\2\\motores\\actividad1\\git\\actividad1_motoresdevideojuegosi_unairanea\\assets\\scripts\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6B3B714-CDED-0CB0-517C-F30E8CF6C1CC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6B3B714-CDED-0CB0-517C-F30E8CF6C1CC}|Assembly-CSharp.csproj|z:\\0_unir\\2\\motores\\actividad1\\git\\actividad1_motoresdevideojuegosi_unairanea\\assets\\scripts\\controles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B3B714-CDED-0CB0-517C-F30E8CF6C1CC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6B3B714-CDED-0CB0-517C-F30E8CF6C1CC}|Assembly-CSharp.csproj|z:\\0_unir\\2\\motores\\actividad1\\git\\actividad1_motoresdevideojuegosi_unairanea\\assets\\scripts\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6B3B714-CDED-0CB0-517C-F30E8CF6C1CC}|Assembly-CSharp.csproj|Z:\\0_unir\\2\\motores\\actividad1\\git\\Actividad1_MotoresDeVideojuegosI_UnaiRanea\\assets\\scripts\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6B3B714-CDED-0CB0-517C-F30E8CF6C1CC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B3B714-CDED-0CB0-517C-F30E8CF6C1CC}|Assembly-CSharp.csproj|z:\\0_unir\\2\\motores\\actividad1\\git\\actividad1_motoresdevideojuegosi_unairanea\\assets\\scripts\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B3B714-CDED-0CB0-517C-F30E8CF6C1CC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Controles.cs",
+              "DocumentMoniker": "Z:\\0_unir\\2\\motores\\actividad1\\git\\Actividad1_MotoresDeVideojuegosI_UnaiRanea\\Assets\\Scripts\\Controles.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controles.cs",
+              "ToolTip": "Z:\\0_unir\\2\\motores\\actividad1\\git\\Actividad1_MotoresDeVideojuegosI_UnaiRanea\\Assets\\Scripts\\Controles.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T02:43:36.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Inicio.cs",
               "DocumentMoniker": "Z:\\0_unir\\2\\motores\\actividad1\\git\\Actividad1_MotoresDeVideojuegosI_UnaiRanea\\Assets\\Scripts\\Inicio.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Inicio.cs",
