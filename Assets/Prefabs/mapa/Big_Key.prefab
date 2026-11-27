@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 6893896673642870065}
   - component: {fileID: 1601123790423133384}
   - component: {fileID: 1069912182450518241}
+  - component: {fileID: 156221610942856445}
   m_Layer: 0
   m_Name: Big_Key
   m_TagString: Llave
@@ -112,3 +113,16 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.6485729, y: 0.093691826, z: 0.28828213}
   m_Center: {x: -0.046055794, y: -0.0017310511, z: 0.014845133}
+--- !u!114 &156221610942856445
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2098887493072790360}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a146b38e1613cb04da0909bfbb9a9432, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Llaves
+  rotacion: 10

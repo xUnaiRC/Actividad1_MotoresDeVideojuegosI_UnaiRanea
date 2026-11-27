@@ -3,7 +3,23 @@
   "WorkspaceRootPath": "Z:\\0_unir\\2\\motores\\actividad1\\git\\Actividad1_MotoresDeVideojuegosI_UnaiRanea\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6B3B714-CDED-0CB0-517C-F30E8CF6C1CC}|Assembly-CSharp.csproj|z:\\0_unir\\2\\motores\\actividad1\\git\\actividad1_motoresdevideojuegosi_unairanea\\assets\\scripts\\controles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6B3B714-CDED-0CB0-517C-F30E8CF6C1CC}|Assembly-CSharp.csproj|z:\\0_unir\\2\\motores\\actividad1\\git\\actividad1_motoresdevideojuegosi_unairanea\\assets\\scripts\\playermov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B3B714-CDED-0CB0-517C-F30E8CF6C1CC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B3B714-CDED-0CB0-517C-F30E8CF6C1CC}|Assembly-CSharp.csproj|z:\\0_unir\\2\\motores\\actividad1\\git\\actividad1_motoresdevideojuegosi_unairanea\\assets\\scripts\\cameramov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B3B714-CDED-0CB0-517C-F30E8CF6C1CC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameramov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B3B714-CDED-0CB0-517C-F30E8CF6C1CC}|Assembly-CSharp.csproj|z:\\0_unir\\2\\motores\\actividad1\\git\\actividad1_motoresdevideojuegosi_unairanea\\assets\\scripts\\monstruos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B3B714-CDED-0CB0-517C-F30E8CF6C1CC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\monstruos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B3B714-CDED-0CB0-517C-F30E8CF6C1CC}|Assembly-CSharp.csproj|Z:\\0_unir\\2\\motores\\actividad1\\git\\Actividad1_MotoresDeVideojuegosI_UnaiRanea\\assets\\scripts\\cajas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B3B714-CDED-0CB0-517C-F30E8CF6C1CC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cajas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B3B714-CDED-0CB0-517C-F30E8CF6C1CC}|Assembly-CSharp.csproj|Z:\\0_unir\\2\\motores\\actividad1\\git\\Actividad1_MotoresDeVideojuegosI_UnaiRanea\\assets\\scripts\\controles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6B3B714-CDED-0CB0-517C-F30E8CF6C1CC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,7 +27,7 @@
       "RelativeMoniker": "D:0:0:{A6B3B714-CDED-0CB0-517C-F30E8CF6C1CC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6B3B714-CDED-0CB0-517C-F30E8CF6C1CC}|Assembly-CSharp.csproj|z:\\0_unir\\2\\motores\\actividad1\\git\\actividad1_motoresdevideojuegosi_unairanea\\assets\\scripts\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6B3B714-CDED-0CB0-517C-F30E8CF6C1CC}|Assembly-CSharp.csproj|Z:\\0_unir\\2\\motores\\actividad1\\git\\Actividad1_MotoresDeVideojuegosI_UnaiRanea\\assets\\scripts\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6B3B714-CDED-0CB0-517C-F30E8CF6C1CC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -27,6 +43,57 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PlayerMov.cs",
+              "DocumentMoniker": "Z:\\0_unir\\2\\motores\\actividad1\\git\\Actividad1_MotoresDeVideojuegosI_UnaiRanea\\Assets\\Scripts\\PlayerMov.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMov.cs",
+              "ToolTip": "Z:\\0_unir\\2\\motores\\actividad1\\git\\Actividad1_MotoresDeVideojuegosI_UnaiRanea\\Assets\\Scripts\\PlayerMov.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMov.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-27T01:46:10.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CameraMov.cs",
+              "DocumentMoniker": "Z:\\0_unir\\2\\motores\\actividad1\\git\\Actividad1_MotoresDeVideojuegosI_UnaiRanea\\Assets\\Scripts\\CameraMov.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraMov.cs",
+              "ToolTip": "Z:\\0_unir\\2\\motores\\actividad1\\git\\Actividad1_MotoresDeVideojuegosI_UnaiRanea\\Assets\\Scripts\\CameraMov.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraMov.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-27T01:34:19.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Monstruos.cs",
+              "DocumentMoniker": "Z:\\0_unir\\2\\motores\\actividad1\\git\\Actividad1_MotoresDeVideojuegosI_UnaiRanea\\Assets\\Scripts\\Monstruos.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Monstruos.cs",
+              "ToolTip": "Z:\\0_unir\\2\\motores\\actividad1\\git\\Actividad1_MotoresDeVideojuegosI_UnaiRanea\\Assets\\Scripts\\Monstruos.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Monstruos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-27T00:16:28.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cajas.cs",
+              "DocumentMoniker": "Z:\\0_unir\\2\\motores\\actividad1\\git\\Actividad1_MotoresDeVideojuegosI_UnaiRanea\\Assets\\Scripts\\Cajas.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Cajas.cs",
+              "ToolTip": "Z:\\0_unir\\2\\motores\\actividad1\\git\\Actividad1_MotoresDeVideojuegosI_UnaiRanea\\Assets\\Scripts\\Cajas.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Cajas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T20:05:35.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Controles.cs",
               "DocumentMoniker": "Z:\\0_unir\\2\\motores\\actividad1\\git\\Actividad1_MotoresDeVideojuegosI_UnaiRanea\\Assets\\Scripts\\Controles.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Controles.cs",
@@ -34,12 +101,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Controles.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-23T02:43:36.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-23T02:43:36.801Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Inicio.cs",
               "DocumentMoniker": "Z:\\0_unir\\2\\motores\\actividad1\\git\\Actividad1_MotoresDeVideojuegosI_UnaiRanea\\Assets\\Scripts\\Inicio.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Inicio.cs",
@@ -47,12 +113,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Inicio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-23T02:42:39.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-23T02:42:39.009Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "MenuPrincipal.cs",
               "DocumentMoniker": "Z:\\0_unir\\2\\motores\\actividad1\\git\\Actividad1_MotoresDeVideojuegosI_UnaiRanea\\Assets\\Scripts\\MenuPrincipal.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MenuPrincipal.cs",
@@ -60,8 +125,7 @@
               "RelativeToolTip": "Assets\\Scripts\\MenuPrincipal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-23T02:42:20.238Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-23T02:42:20.238Z"
             }
           ]
         },

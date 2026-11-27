@@ -65,8 +65,10 @@
     <Compile Include="Assets\Scripts\PlayerMov.cs" />
     <Compile Include="Assets\Scripts\Fin.cs" />
     <Compile Include="Assets\Scripts\Lava.cs" />
+    <Compile Include="Assets\Scripts\Monstruos.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\Scripts\Controles.cs" />
+    <Compile Include="Assets\Scripts\Llaves.cs" />
     <Compile Include="Assets\Scripts\Inicio.cs" />
     <Compile Include="Assets\Scripts\MenuPrincipal.cs" />
     <Compile Include="Assets\Scripts\CameraMov.cs" />

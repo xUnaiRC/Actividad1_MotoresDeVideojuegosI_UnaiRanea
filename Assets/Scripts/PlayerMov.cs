@@ -59,19 +59,21 @@ public class PlayerMov : MonoBehaviour
 
     private void OnCollisionEnter(Collision collision)
     {
+        tocaSuelo = true;
         //Comprobar si el juagdor toca el suelo
         if (collision.gameObject.CompareTag("Suelo") || collision.gameObject.CompareTag("Caja"))
         {
-            tocaSuelo = true;
+            
         }
     }
 
     private void OnCollisionExit(Collision collision)
     {
+        tocaSuelo = false;
         //Comprobar si el juagdor toca el suelo
         if (collision.gameObject.CompareTag("Suelo") || collision.gameObject.CompareTag("Caja"))
         {
-            tocaSuelo = false;
+            
         }
     }
 }
